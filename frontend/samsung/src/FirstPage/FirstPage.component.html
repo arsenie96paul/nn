@@ -1,0 +1,49 @@
+<div class="card card-body" *ngIf="persons.length > 0">
+  <div class="card-header bg-dark text-white">
+    <h4 class="font-weight-bold mb-0 ml-3">Person List</h4>
+  </div>
+  <div class="accordion" id="accordionPersonList">
+    <div class="accordion-item" *ngFor="let person of persons; let idx = index">
+      <h2 class="accordion-header" [attr.id]="'heading' + idx">
+        <button class="accordion-button collapsed d-flex align-items-center justify-content-between" type="button"
+          data-bs-toggle="collapse" [attr.data-bs-target]="'#collapse' + idx" aria-expanded="false"
+          [attr.aria-controls]="'collapse' + idx" (click)="getAdresses(person.personId)">
+          <span class="d-flex align-items-center">
+            <b>{{ person.name }}</b>
+          </span>
+        </button>
+      </h2>
+
+      <div [id]="'collapse' + idx" class="accordion-collapse collapse" [attr.aria-labelledby]="'heading' + idx">
+        <div class="accordion-body">
+          <div *ngIf="adresses.length > 0x">
+            <h5 class="mt-2">Addresses:</h5>
+            <ul *ngFor="let address of adresses">
+              <li *ngIf=" address.personId === person.personId">
+                Street: {{ address.street }};
+                City: {{ address.city }};
+                State: {{ address.state }};
+                ZipCode: {{ address.zipCode }}
+              </li>
+            </ul>
+          </div>
+          <div *ngIf="adresses.length === 0">
+            <p>No addresses found for this person.</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 
+<div class="card card-body">
+  <div class="card-header bg-dark text-white">
+    <h4 class="font-weight-bold mb-0 ml-3">Add Person</h4>
+  </div>
+  <input type="text" [(ngModel)]="newPersonName" placeholder="Enter person name" class="form-control me-2" />
+
+  <button class="btn btn-primary ms-2" type="button" (click)="addPerson()">
+    Add Person
+  </button>
+</div> -->

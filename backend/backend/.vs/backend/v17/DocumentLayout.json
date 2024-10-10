@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Samsung\\backend\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC2C2C2-2F84-4AA6-AC11-4CC8A069FFF3}|TestProject\\TestProject.csproj|d:\\projects\\samsung\\backend\\backend\\testproject\\controller\\personcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC2C2C2-2F84-4AA6-AC11-4CC8A069FFF3}|TestProject\\TestProject.csproj|solutionrelative:testproject\\controller\\personcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC2C2C2-2F84-4AA6-AC11-4CC8A069FFF3}|TestProject\\TestProject.csproj|d:\\projects\\samsung\\backend\\backend\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC2C2C2-2F84-4AA6-AC11-4CC8A069FFF3}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\database\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\database\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|d:\\projects\\samsung\\backend\\backend\\backend\\models\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41749462-8405-4697-8F31-9A2D133400B8}|backend\\backend.csproj|solutionrelative:backend\\models\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:28:09.78Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\PersonService.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Services\\PersonService.cs",
+              "RelativeToolTip": "backend\\Services\\PersonService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:32:21.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "backend\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:28:03.815Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonControllerTests.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\TestProject\\Controller\\PersonControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\Controller\\PersonControllerTests.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\TestProject\\Controller\\PersonControllerTests.cs",
+              "RelativeToolTip": "TestProject\\Controller\\PersonControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:08:57.789Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:06:40.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AddressController.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:37:29.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\AddressService.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Services\\AddressService.cs",
+              "RelativeToolTip": "backend\\Services\\AddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:37:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "backendDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Database\\backendDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Database\\backendDbContext.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Database\\backendDbContext.cs",
+              "RelativeToolTip": "backend\\Database\\backendDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:57:55.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Adress.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Models\\Adress.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Adress.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Models\\Adress.cs",
+              "RelativeToolTip": "backend\\Models\\Adress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:31:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Person.cs",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\Models\\Person.cs",
+              "RelativeToolTip": "backend\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:30:44.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Samsung\\backend\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Samsung\\backend\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T06:36:21.362Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
